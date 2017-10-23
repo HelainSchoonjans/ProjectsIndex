@@ -12,6 +12,7 @@ An index of my GitHub projects.
 
 - [Scripts](https://github.com/HelainSchoonjans/Scripts): a collection of personal scripts in bash and python.
 - [docker-stacks](https://github.com/HelainSchoonjans/docker-stacks): a fork of the original docker-stacks, with new Jupyter data science docker specifications for graph and sentiment analysis.
+- [botkit-slack-elastic](https://github.com/HelainSchoonjans/botkit-slack-elastic): an unfinished slack bot for monitoring Elasticsearch.
 
 ## Practice projects
 
@@ -22,6 +23,7 @@ An index of my GitHub projects.
 - [EasyDockstash](https://github.com/HelainSchoonjans/EasyDockstash): a dockerization of Logstash.
 - [Dockstash](https://github.com/HelainSchoonjans/Dockstash): another dockerization of Logstash.
 - [mininations-client](https://github.com/HelainSchoonjans/mininations-client): my first project with AngularJS. It's a site where you can create your imaginary country. It contains everything needed for dockerization and continuous deployment with Shippable on Amazon web services.
+- [fantastic-eureka](https://github.com/HelainSchoonjans/fantastic-eureka): data science tinkering with my Jupyter notebook.
 
 ## Tutorials projects
 
@@ -29,3 +31,11 @@ An index of my GitHub projects.
 - [HaskellTutorials](https://github.com/HelainSchoonjans/HaskellTutorials): exercises from different haskell tutorials.
 - [SCIP-exercises](https://github.com/HelainSchoonjans/SCIP-exercices): my take on the exercises of the Structure and Interpretation of Computer Programs book on Lisp and functional programming.
 - [Udacity](https://github.com/HelainSchoonjans/Udacity): exercises from Udacity, among which the tensorflow class.
+- [pythonGeekyProjects](https://github.com/HelainSchoonjans/PythonGeekyProjects): exercises from the book Python geeky projects.
+- [tour-of-heroes](https://github.com/HelainSchoonjans/tour-of-heroes): the Angular 2 tutorial "tour of heroes".
+- [oci_music_and_cars](https://github.com/HelainSchoonjans/oci_musicandcars): some OCI online class materials.
+- [oci_firstrestdemo](https://github.com/HelainSchoonjans/oci_firstrestdemo): some OCI online class materials.
+- [oci_customjson](https://github.com/HelainSchoonjans/oci_customjson): some OCI online class materials.
+- [oci_multitenancy](https://github.com/HelainSchoonjans/oci_multitenancy): some OCI online class materials.
+- [oci_dataservices](https://github.com/HelainSchoonjans/oci_dataservices): some OCI online class materials.
+- [oci_gormoutsidegrails](https://github.com/HelainSchoonjans/oci_gormoutsidegrails): some OCI online class materials.
