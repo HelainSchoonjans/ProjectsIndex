@@ -23,7 +23,7 @@ An index of my GitHub projects.
 - [EasyDockstash](https://github.com/HelainSchoonjans/EasyDockstash): a dockerization of Logstash.
 - [Dockstash](https://github.com/HelainSchoonjans/Dockstash): another dockerization of Logstash.
 - [mininations-client](https://github.com/HelainSchoonjans/mininations-client): my first project with AngularJS. It's a site where you can create your imaginary country. It contains everything needed for dockerization and continuous deployment with Shippable on Amazon web services.
-- [fantastic-eureka](https://github.com/HelainSchoonjans/fantastic-eureka): data science tinkering with my Jupyter notebook.
+- [fantastic-eureka](https://github.com/HelainSchoonjans/fantastic-eureka): data science tinkering with my Jupyter notebook, python pandas module and R.
 
 ## Tutorials projects
 
