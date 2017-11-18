@@ -2,6 +2,11 @@
 
 An index of my GitHub projects.
 
+## Hackathons
+
+- [Museomix 2017 Belgium](https://github.com/HelainSchoonjans/hello_museum): a first draft of the calling app in html
+- [Museomix 2017 Belgium](https://github.com/HelainSchoonjans/hello_museum_android): The final prototype using android
+
 ## Academic projects
 
 - [AStar](https://github.com/HelainSchoonjans/AStar): an implementation of the A* algorithm in C++, using the Qt framework.
