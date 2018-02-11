@@ -2,6 +2,10 @@
 
 An index of my GitHub projects.
 
+## Workshops
+
+- [Greach 2018: Functional testing in Grails](https://github.com/HelainSchoonjans/greach2018-functional-testing-grails): The sources for the workshop I gave at the Greach 2018.
+
 ## Hackathons
 
 - [Museomix 2017 Belgium](https://github.com/HelainSchoonjans/hello_museum): a first draft of the calling app in html
