@@ -4,7 +4,7 @@ An index of my GitHub projects.
 
 ## Workshops
 
-- [Greach 2018: Functional testing in Grails](https://github.com/HelainSchoonjans/greach2018-functional-testing-grails): The sources for the workshop I gave at the Greach 2018.
+- [Greach 2018: Functional testing in Grails](https://github.com/HelainSchoonjans/greach2018-functional-testing-workshop): The sources for the workshop I gave at the Greach 2018.
 
 ## Hackathons
 
