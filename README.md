@@ -5,6 +5,7 @@ An index of my GitHub projects.
 ## Workshops
 
 - [Greach 2018: Functional testing in Grails](https://github.com/HelainSchoonjans/greach2018-functional-testing-workshop): The sources for the workshop I gave at the Greach 2018.
+- [Text mining in R](https://github.com/HelainSchoonjans/text-mining-exercises): my exercises for the text mining in R workshop.
 
 ## Hackathons
 
